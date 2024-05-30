@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/orden_n.dir/scr/main.cpp.o -o orden_n 

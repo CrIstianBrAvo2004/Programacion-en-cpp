@@ -1,0 +1,3 @@
+/home/narvandre/cbravon/task_first/build/CMakeFiles/orden_n.dir
+/home/narvandre/cbravon/task_first/build/CMakeFiles/edit_cache.dir
+/home/narvandre/cbravon/task_first/build/CMakeFiles/rebuild_cache.dir
